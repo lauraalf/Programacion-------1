@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Practica Herencia C#-2/1.0.0": {
+        "runtime": {
+          "Practica Herencia C#-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica Herencia C#-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
